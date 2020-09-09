@@ -1,0 +1,170 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "emailId": "user@gmail.com",
+      "password": "user@123"
+    },
+    {
+      "emailId": "admin@gmail.com",
+      "password": "Admin@123",
+      "id": 2
+    }
+  ],
+  "allProduct": [
+    {
+      "id": 1,
+      "title": "Men Shoes",
+      "cost": 3999,
+      "inStock": 40,
+      "description": "Lightweight feel",
+      "imageurl": "https://content.adidas.co.in/static/Product-EF0584/Men_CORE_SHOES_LOW_EF0584_1.jpg.plp",
+      "outOfstock": 60,
+      "manufacturer": "AAAA",
+      "material": "Eva"
+    },
+    {
+      "id": 2,
+      "title": "Women Shoes",
+      "material": "Synthetic upper",
+      "inStock": 70,
+      "outOfstock": 30,
+      "cost": 2999,
+      "manufacturer": "BBBB",
+      "imageurl": "https://assets.ajio.com/medias/sys_master/root/h47/h5f/15155050610718/-78Wx98H-460479210-white-OUTFIT.jpg",
+      "description": "Comfortable feel"
+    },
+    {
+      "id": 3,
+      "title": "Kids Footwear",
+      "material": "Synthetic",
+      "inStock": 90,
+      "outOfstock": 10,
+      "cost": 699,
+      "manufacturer": "CCCC",
+      "imageurl": "https://assets.ajio.com/medias/sys_master/root/he7/h4f/11487341051934/-78Wx98H-460189088-black-MODEL4.jpg",
+      "description": "Slip-on styling"
+    },
+    {
+      "id": 4,
+      "title": "Asian Men Shoes",
+      "material": "Leather",
+      "inStock": 50,
+      "outOfstock": 50,
+      "cost": 2799,
+      "manufacturer": "DDDD",
+      "imageurl": "https://images-eu.ssl-images-amazon.com/images/I/71DJKZ1JneL._AC_UL320_SR320,320_.jpg",
+      "description": "Formal look"
+    },
+    {
+      "id": 5,
+      "title": "FORCA Checked Fleece Slippers",
+      "cost": 399,
+      "inStock": 50,
+      "description": "Comfortable & Lightfeel",
+      "imageurl": "https://6c819239693cc4960b69-cc9b957bf963b53239339d3141093094.lmsin.net/1000004298522-25717-Blue-Blue-Navy-Denim-1000004298522-25717_01-345.jpg",
+      "outOfstock": 50,
+      "manufacturer": "DDDD",
+      "material": "Textiles Fabric"
+    },
+    {
+      "id": 6,
+      "title": "Singleback Flat Sandals",
+      "cost": 599,
+      "inStock": 48,
+      "description": "Stylish look",
+      "imageurl": "https://6c819239693cc4960b69-cc9b957bf963b53239339d3141093094.lmsin.net/1000004298522-25717-Blue-Blue-Navy-Denim-1000004298522-25717_01-345.jpg",
+      "outOfstock": 52,
+      "manufacturer": "DDDD",
+      "material": "Synthetic"
+    },
+    {
+      "id": 7,
+      "title": "Asian Women Shoes",
+      "material": "Leather",
+      "inStock": 50,
+      "outOfstock": 50,
+      "cost": 2799,
+      "manufacturer": "DDDD",
+      "imageurl": "https://images-eu.ssl-images-amazon.com/images/I/71DJKZ1JneL._AC_UL320_SR320,320_.jpg",
+      "description": "Formal look"
+    },
+    {
+      "id": 8,
+      "title": "GINGER Embellished Shoes",
+      "cost": 839,
+      "inStock": 24,
+      "description": "Casual Cool Look",
+      "imageurl": "https://6c819239693cc4960b69-cc9b957bf963b53239339d3141093094.lmsin.net/1000007782401-Black-1000007782401_01-345.jpg",
+      "outOfstock": 76,
+      "manufacturer": "DDDD",
+      "material": "Synthetic"
+    },
+    {
+      "id": 9,
+      "title": "Asian Men Shoes",
+      "material": "Leather",
+      "inStock": 50,
+      "outOfstock": 50,
+      "cost": 2799,
+      "manufacturer": "DDDD",
+      "imageurl": "https://images-eu.ssl-images-amazon.com/images/I/71DJKZ1JneL._AC_UL320_SR320,320_.jpg",
+      "description": "Formal look"
+    },
+    {
+      "id": 10,
+      "title": "Asian Men Shoes",
+      "cost": 1999,
+      "inStock": 56,
+      "description": "Formal look",
+      "imageurl": "https://assets.ajio.com/medias/sys_master/root/h7b/h9c/15040916979742/-78Wx98H-461071080-black-MODEL3.jpg",
+      "outOfstock": 44,
+      "manufacturer": "DDDD",
+      "material": "Artificial Leather"
+    },
+    {
+      "id": 11,
+      "title": "Women Fitness Shoes",
+      "cost": 1000,
+      "inStock": 10,
+      "description": "Fashionable & Comfortable",
+      "imageurl": "https://contents.mediadecathlon.com/p1689528/f5e6ba313ed4cb7ecd55bb535e8b9d4b/p1689528.jpg?f=650x650",
+      "outOfstock": 90,
+      "manufacturer": "GGGG",
+      "material": "Eva"
+    },
+    {
+      "id": 12,
+      "title": "Women Casual Shoes",
+      "cost": 999,
+      "inStock": 34,
+      "description": "Solid Sock-Knit Casual",
+      "imageurl": "https://6c819239693cc4960b69-cc9b957bf963b53239339d3141093094.lmsin.net/1000008499832-Green-1000008499832_01-345.jpg",
+      "outOfstock": 66,
+      "manufacturer": "Lifestyle",
+      "material": "Textiles Fabric"
+    },
+    {
+      "id": 13,
+      "title": "Ginger Striped Plimsolls",
+      "cost": 399,
+      "inStock": 56,
+      "description": "Comfortable & Lightfeel",
+      "imageurl": "https://6c819239693cc4960b69-cc9b957bf963b53239339d3141093094.lmsin.net/1000007757024-Blue-1000007757024_01-345.jpg",
+      "outOfstock": 44,
+      "manufacturer": "GGGG",
+      "material": "Textiles Fabric"
+    },
+    {
+      "title": "Women Heels",
+      "cost": "700",
+      "material": "Eva",
+      "inStock": "65",
+      "outOfstock": "35",
+      "description": "Fashion",
+      "manufacturer": "Nike",
+      "imageurl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTERMSEhMWFRUVFRgWFxYXFhcYGBYVGhUWFxYaFxUYHSggGBoxGxUXIzEhJSkrLi4uFx8zODMtNygtLysBCgoKDg0OGxAQGy0mICUtLzA1LTItLTUtLTUtLSstNS8tLS0tLS0tLS0tLS01LS0tLS0tLTUtLS0tLS0tKy0tLf/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABAUDBgcCAQj/xABAEAACAQIDBQQHBgQFBQEAAAABAgADEQQhMQUSQVFhBhMycSJCUoGRocEjYoKx0fAHFHLhM0OSovE0ssLD0iT/xAAaAQEAAwEBAQAAAAAAAAAAAAAAAgMEBQEG/8QALxEAAgIBAwIDBgYDAAAAAAAAAAECAxEEITESQSJR8AUTMmFxgRSRscHR4UKh8f/aAAwDAQACEQMRAD8A7jERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAERKTtFt8UBuJZqzDJeCj2n5D8542kssnXXKcumJJ21tulhlu5JY+FFzZvIcus5VtXt/iWqNZ2pi+SLb0RfTeAufOetqYxmLMWLM3ic6noOQ6TU8TTBJmSdrkdPTxrqe6z83+xuvZXt1UWuO+ZqlNgFYFiSpJyYA+dsvI8J1mlVDKGUggi4I0M/NNCmy1FI58+GhtOs9l9u9yQrn7NrX+6eY+slVZjZk9VplanOvleXrk6BE+KwIBBuDmCOIn2ajjCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiQ9rbQWhSao3DIDizcAP3oDDeD2MXJ4XJD7RbaFBQq+lVfwLy+83T9OhtzvEVCxYlizE3dzqx5DpJWNxDO7M5vUfxHgq8FXll++cMUmqMtOmLsxsoHE/QcSeFpjnNzZ0lFVx6Y/d+f8AX/Sk2niOAlKWnRu0nYXu8DUrBt6vTBqMF8BQZsoFr3C3N9SR1nNLyEouPJ7CSksol4dbso6j85tjGx8sprvZ9N+t0Qbx/fx+EvXaROpoI+GTNy7G7csRQqHI+AngfZ8uU3ScSOPCVApv1bgD+s6h2b2+tZVpsbVQOPr24jmbaiaqp7YZzPaOmSk7Icd/ky9iIl5yhERAEREAREQBERAEREAREQBERAEREAREQD47AAkmwAuSeAnPtt7TNepvjwrcUl/NyP3p0zue1u0r/wD51OWTVTyXIhPM5e63MzWLXz0ysByA0EzXT/xRvph7uPU+X/pf3+n1IlW4GWv1mz/w9wI+1rsbtfux0FgzfG4/0zXK3SWnYzawo1u6bwVSADnk+g9xvbzt1ldbSluLE3B4Og1EDAqRcEEEcwdZ+e8XsM061Wgf8moyb3NQbrb8JHxM7ztfaK0KZdszoq+03Ly6zjWJc16u6ujEmo3tEm7C44Ek3PWXXY2PNHCU8pcGfZmFWlR9EZvxtqOf5fOe+MyV3F7DQZDymBjMr5Ppaa1XBRKbEvdd/rfMZWz+kvNkYtl3HGqEEcMwf7S/XZSrg3uqk1UG4OPpKLe+/wApr9PCd0Ny9yPERpfleSnscaue00+52TC1w6K66MoYeRF5llH2NxJfCqDqhKfCxHyI+EvJti8pM4810yaEREkREREAREQBERAEREAREQBERAEREASDtnaAoUi+raIvtOdB9fIGTpo+3Nod9V3h4UulPqfWf6DykLJ9KLqK1KWXwvWPuVrXJO8bknec+05z+E8tMgWwmKrMLZsbcnlkPENIJuTYan5dTJddSchqZW7Vxfdg0qZ9I+NxwGfog854WV1ysl0xPW39uPUO4arVLDdZzbPLQWGXUjWe8DR7unc+Jx8F/d/nKzY2C333m8CZnqRoM/d8RzlrXqXJP7twknJs7FFMYbR4RjZphd58dpOwGEOTkXJ8C+0faP3ZDJfbYq45ZZPindUQZEU1X+hQoBJ6yvqEDIeEceZ5zNVawKg6+NuZ5CQ6umWkcnCfmWew+2Zww7sqrIWJsbqb8SHzHAZEe+b7sbtLh8RYI265/wAt7Bvwm9n/AAkzjmKXnK0VGpm6HLW3D+x6y6FrjsUzphPnnzP0bE5Z2V7futqde9RdMz6a+THxjoxv1Ok6XgMdTrIHpMGU/EHkQcwehmqFilwY7KZQ+hIiIkykREQBERAEREAREQBERAERMOMxS0kao5sqi5+gHWD1Jt4RV9pseUTukNnqAi/sp6zefAdT0mpDmMhoByEyY3EtUdnbxNmR7K+qg/esx3mKyfUzco9C6V6fr1uDI9ZpkqPMVJd431AP785VyeldtLGd0uR+0bT7g4nzmshSzBRmSbf8mWm1tn1y7MbPc3yNjbgLNa3xMzbJwPdr3lQemfCp1A/U6nplxNvWjsabojDEHlv1+SJCUxTprTHmxta5+munC9uEjVWmaoec8YegXcLz+Q4zxm/ChEzbOwW9d38Cm1uLtwUfWWOIr7twPG3iPsr7InqpXCgbvAWpjkOLnqZp/abHMj01RiGsWJ53yGuuYaEjj22SumWeIxSd9TpE8G46Nlu73nnJNRbTSMITvbxJJJuTxvzvN2wdbvaYb1lybryaMYFlPg6l25IrYdnYIouWIVbcWJsB8TJ22uwmJoUe9utQKLuEuSoHHMC468PKecDV3aiPbwsrfBgfpOyy6qtTTyc622UGsH5uCzYOz23quHcFWsdL6gjk6+sPmOE+9tNlrh8bVSmLIbMo5bwBsOl7gdAJV01lTzFmmL6lnzO1dn+0VPEgDJalrlL6jmh9Zfy4y6nB8JimpkEE2BuLEgg8wRmDOh9nu2gICYg+VQf+xRp/UMudppruztIy26bO8Py/j+OfqbrE806gYBlIIOYINwR0InqaDEIiIAiIgCIiAIianX7fYYF1AclbgNugoxGQIs17X6SMpKPJZXTOz4Fkv8btbD0TarXpUyeDuqn4EzTds9oExL2purUkNlAYHff2iAcgOF/7TW32BTr1K9TEGq9R6odTRemSE3vWW5bkD6JA0mvtgFob5ompUoVDvb1XcUrreyrmVz8VuHvme2bwa9PXhtxWXjnyN3B+PHznlqkrv4ZbH75618SzpTVbpnq29YqTpbd6jPTjJ239n1MPU3GN1bNGtqOR5GUuLx1FlVfvJ9Ce5i3t42HvmZ3AW3L3dZX0qhGn798l0ASYRtXs+S+JoNzPuHP+0iVmubmTsQlpAqmJHR01MK14SNVkrBruoTxbL8I1+JykYJdgBxlxs7BCtWSlvFQfRBGZFlJ4+XzkOXhFeutUYYKTH4rdqUwb5nMDloPcL390p+1O6/cVEsQUZcuhBsf9UkdtKK0sY6U2P2bAAt4rgDe01F7ynxOI3rjK28W6i+o8pPHTsc2qSbjJGGisu9mYkoQR/wAjlKZDJ2GeeM6kDaEwodGZGFmuADkQSDlOwU3BFwQRzGc4ZgsVu3BG8rZMp0Ik9MfUo+nQrOF5BrnyKH8xLKrOk52q9nufwszfxEffx9T7ion+3e/8jKBFlhiK3fOWdSHY3ZxcgniSp+kxtht292FuYvn7jK5vLbIQ01scR6T5hMKXNhlzJ4SRWwZT/DuTz/TgJh2fjt0M2W7vWOeY5fn85atj6YXeZwBpnxPIDUnykUsmmGkyt2VuA2kKDKK9JzexzqM1he5sl7aa7pJHIzdRXNPcakz0xu3PpqyEZm6BvRqZkWuw5Cajia1Govp33DoWUrc/cDWYnyEh4PtAtJSioag3mULdlbI67yAMfUNstOplsLFHZkNToM+Kv7p/2bXiNqYoEFqtQA3sQbAjpu5S62L2rtZMQegqf/Q+o/vOaYztIxI3+7pjP0fS3j+IOSNOJMv+zHZ3BY1RWejUb0rF0ZXAN/W9dT7uslGUurwnlsaPcr3qS+iOtKwIBBuDmCNCOk+zHh6KoioosqgKByAFgJkmw4DxnYREQeGs9u9sdzh+7Q2qVbqOYT12+nv6TnGxMMGqgsygIVyLKCzG+6FBZb6E5HgOc6zt/ZeFrIDiqauE0JvcX5EZ+6cuwzNS/mXOHWnQ7w92TU9IUxkoCsrbxNifN8tBM1q8SbOrpblHTyhBb+fr5E/bFMKq3B9NbEnfJ7sAFgrPe5N1XI+v0vKSqSb9eA08rcuEqMT2garVfuaITeAtvAKLg7zAhbAagC3JZ6TbgGVZCnXVfjKLJZZ09BGFdeO7L3YONqYZy1HdUsLN6K2YXvmLTYts7aOJoFaiqHp7r3W/rNugWOmW8deE1zZtWm/pKwIAvJVRCoKnxuwdx7IUEU0PUBnYjgXtqI6njBdOmtzUklnPJ9orLHDJaRMNTktjaexRZN52MOJaQahmeq0jOZFlsFhHvBjNm5D8/wBmbn2L2Uf+oa1rEJ53IcnloR8ZqWGWy355+4aTpXZ/DGnhqaNrYsRyLEtb52k9PHM8nB9p25bx9DjP8U7DaNa62H2ZBGv+EmfXO/wmpLUNuDj5zu/bnsPTx4FRW7quq2V7XVlzIV15XJsRmL8dJxTb/Z/E4J7YmkUzsKi5028nGXuNj0k7INNsy02JpLuRKY9g/hP0krDYjOxyPIyvpVwwvr1Gsl0yCPSzHtDUecoZ0KtQ48l5h3uJmIlVhqpQgNodG5y2GYg6dc1JZRIoVMorrcTBTMl02nheUWLokAg+Em58+ch0MTVX0KVcLnlvmmAPJ6gyGnHhNu3AdRMYwNO990Rgh0b7FRhqA3hd3rNb7RlNzUPBe+a9qfRQby7rm6XYJSp5eigtvG2V28dQ25m2WgmehSGmgtcnko1PylDtPGF3J9UZKOQ/WFHuZ9RZGpeb9dj1X2rSp+CiD1OXyEzbE7YilU3lUUm0JAJBHJrXJH4TNdxVYSqqvYya2Oc9TZPaT2+x+juznaqnibI1lqWuLEFXHNDx4/DobbFPzX2a2qUcKWspNwfYbgw6cxxHUC3fOy21v5ijdv8AEQ7jj7w45fvIzVVZnZmDU6eKXXDjuvXb9C4iIlxhPNS1jvWtbO+lpwXtJ2jvXepTVV32O6N0boUEi9vaJvc8787DtfaOoVwmIYaijUP+wz81497sv9C/NQT8zM977HQ0cV0OX2NgTGlhvsQMrNkLOORvp7rTLYVVsmHuDx74Mp55GmCvlczVKuOvZRovzPOS9mbSek+8MwcmU6MOszM6lFccZkbTsjY/dNvqoptzDMxHkTkPcJc0qNp52fiVqoHTMHh7PQyaFnqR0FhLY+oLCY6jw7zCTPWwkeXMwhd4gcOJ5DjMjHkLk6AcTJVCjugg5k+L9B0lcmQvuVcfmW3ZpL4mlYX1PQKEYD6ToEqNg7FWgN6+87AC9rADWwH70lvN1MHGOGfKX2Kc8oTzUphgVYAg6gi4PmDPUS0pNS7X9gcPjd17mjVVd1XQAgqLkB6ejAXOhB6znPab+HlfBItWmzYhLHvGVLFDfL0ASSluOdrG87nErlXGRbC6UT81YWqrrbUH4e7kZZYFiPQbUfMcDOwdreyNLGqpJ7uqgstQC+Wu6y5by3z1BB0OZvyjaezamHrGlUFqlPlo9M6MvMZfEEcDMtlbgdXR6pdQImSm08qbjKfLSs7qZLV5lVpCVplRrm3PL45QemfHse6Cre9TM9EGg95/KUFXCvnkZtmLxNNMibm1rLmdMr8BKXGY5nuFG4p4DU+bayeyORZCy6xvGxqe0HtkBvH5CUr036/Sbr/LjkJ9GEHIfCR6i+Ojjg1LZ9Rgw3hO2fwyxZ73d4VKIJ/qRig/2r85oqYVdCoIOoIyIm7/AMNqAXEkEn0aNlvxBa4PwJF+NpOt+JFGp0/u65PO2DpcRE3Hzxgx2GFSlUpnR0ZD5MCPrPzRtrZ7q5psLMl0boUO59AfxT9PTlf8WMBTFZGQWqOhNS3GxCoSOdgwv06Si5bZN+hl1S92+/7HKaWGCzMBJbYU8p4/lW5TIfQ9GOCRsXaZoPfVDky8xz85vqVwQCpG6Rdc75WE0Gjsyo2iy72JiGpE0KmXrKb/ABF+X95LJ7FPuX7meEUsbKLn5DqTwmajhyw3nO4v+5vIHQdT85LpUmYbtOm26M91QWPm1s/fI58iq7VRhsuTHSphRZcz6z2+Sj9/SbBsfs9UNQGsm6i52JBLHhoTlzjYGwXZlqVQURSCFIsWI0uOAm4y+qnO8jhanUtvZiIiazAIiIAiIgCUXa/YQxNBt1R3yC9NuN9St+Rtb4HhL2J40msM9jJxeUcBS4zANr+kvFTxyOnlM6sDpN87ddlXdv5nDLdzYVKYtduG+t8ieY46666DvA3DKQQbG2oIyN11B6TBODg8He02tzHc97sy4MfaL/UJiFMHwv7jPVNagYZcdR+kjk3x1MH3PWKo/aPYZb7f9xmLuJbVqLFt665gZG+tra8fOeVw78kP4v1ENo9jZXj4ir7qeloE6CXNPCHiE+J/STqa01HpOB0VRf4tf8p5lCWorj3KKjgrZtmeAE3DsLgWFdqh9ix5C5yXqdT7pVLa/wBmhucrm5Y9ANT5Tfez2zzRpWbxsd5unIfD6y2mLlLPkcvX6xSh0ruWcRE3HEE5R/E8MmNFRvA1JRfgCGbXkMzOryt23saniU3XyIvusNRfXLiOkrti5R2NGmu91YpHFUKt/wAyRRpJfmeAGZMuNsdlmwzEnDb6cHpi62+8o8PvFupkHD44D0aaonlr8BMMlJco+gWvg1mKJdDCm12si8uPv5TIqoDdEBI9dvoTn8JLwGxMTWsRSb+qp6CjyBzPuBmzbP7HAWNd977iXC+9tT7rSUapSMN+uzy/sjXdn4KpXayDfPFjkq+Z4fMzetibJGHU57zNbePDLQAcs5Nw+HVFCooVRoALCZZqrpUN+5zLb3PbsIiJcUCIiAIiIAiIgCIiAJr22+xuGxL94wZHPiamwXetpvAggnra82GJ40nyeqTjujnG0+wVYOe4ZHpnQOd1x0OVj55eUhY3sbiaKK1t++oolju8vRIBPuE6pEqdEWXrUzRx5dkYg/5Vf/Q/6TPT2FiT/k1veGH5zrUSP4deZL8VLyOZYfspiW1pkf1OPyveXOB7GOPG6r0QEn4m1vnN0iSVEERepmyDs7ZNKj4F9L2jmx9/D3SdES1JLZFDbbyxERPTwREQBPm6J9iAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIB//2Q==",
+      "id": 14
+    }
+  ]
+}
